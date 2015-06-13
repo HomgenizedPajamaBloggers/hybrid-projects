@@ -1,0 +1,6 @@
+body{font-family: 'Open Sans', sans-serif;font-size:.6em;}
+nav{text-align:center;}
+.transformationBox{width:250px;height:200px; background-color: blue; border-radius: 10px; -webkit-transition: background-color .5s, -webkit-transform 1s;}
+.transformationBox:hover{background-color:red;  -webkit-transform: rotate(180deg) translateX(100px) translateY(100px);}
+.logo{height:60px;}
+.bold{font-weight:900;font-size:2em;}

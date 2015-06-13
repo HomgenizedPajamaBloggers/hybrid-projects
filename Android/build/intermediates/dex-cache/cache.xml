@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/johnmcswain/Dropbox/Active/General Assembly/FEWD4/Lecture/Week9/Android/platforms/android/build/intermediates/exploded-aar/android/CordovaLib/unspecified/debug/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4007c0e51fb0f8c1d71104cdaa147b4e0013cd1b">
+        <dex dex="/Users/johnmcswain/Dropbox/Active/General Assembly/FEWD4/Lecture/Week9/Android/platforms/android/build/intermediates/pre-dexed/debug/classes-9fa201251331f9fc3025f63200496bc48f8b4a22.jar" />
+    </item>
+
+</items>

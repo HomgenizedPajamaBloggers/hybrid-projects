@@ -1,0 +1,5 @@
+body{font-family: 'Open Sans', sans-serif;font-size:.6em}
+nav{text-align:center;}
+.logo{height:60px;}
+.bold{font-weight:900;font-size:2em;}
+.results{height:80px;width:230px; border: 1px solid #aaa; color: #555;font-size:1.5em;}

@@ -1,0 +1,2 @@
+/Users/johnmcswain/Dropbox/Active/General Assembly/FEWD4/Lecture/Week9/Android/platforms/android/build/intermediates/classes/debug
+/Users/johnmcswain/Dropbox/Active/General Assembly/FEWD4/Lecture/Week9/Android/platforms/android/build/intermediates/pre-dexed/debug/classes-9fa201251331f9fc3025f63200496bc48f8b4a22.jar
